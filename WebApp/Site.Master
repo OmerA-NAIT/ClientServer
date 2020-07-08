@@ -120,18 +120,18 @@
                                     <a class="dropdown-item"
                                             href="~/Exercises/Exercise06.aspx"
                                             style="color:black" runat="server">
-                                            Excercise 06
+                                            Exercise 06
                                     </a>
                                     <a class="dropdown-item"
                                             href="~/Exercises/Exercise07.aspx"
                                             style="color:black" runat="server">
-                                            Excercise 07
+                                            Exercise 07
                                     </a>
                                     
                                     <a class="dropdown-item"
                                             href="~/Exercises/Exercise08.aspx"
                                             style="color:black" runat="server">
-                                            Excercise 08
+                                            Exercise 08
                                     </a>
                                     <a class="dropdown-item"
                                             href="~/Exercises/Project.aspx"

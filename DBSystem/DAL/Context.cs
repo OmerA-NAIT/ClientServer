@@ -20,7 +20,9 @@ namespace DBSystem.DAL
     internal class ContextFSIS : DbContext
     {
         public ContextFSIS() : base("FSISDB") { }
-
+        public DbSet<Team> Teams { get; set; }
+        public DbSet<Player> Players { get; set; }
+        public DbSet<Guardian> Guardians { get; set; }
     }
     internal class ContextStarTED : DbContext
     {
